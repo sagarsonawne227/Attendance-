@@ -48,7 +48,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/attendance-system-android.git
+
 Open the project in Android Studio.
 
 Install dependencies and sync Gradle.
